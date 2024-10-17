@@ -71,4 +71,3 @@ The application uses two main tables:
 
 Feel free to submit pull requests or report issues. Your contributions are welcome!
 
-Feel free to customize any sections as needed!
