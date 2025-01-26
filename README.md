@@ -1,3 +1,5 @@
+Ah, I see! You just want the `README.md` file without the code. Here's the revised version without the code:
+
 ```markdown
 # School Timetable Management System
 
@@ -57,17 +59,25 @@ This project is a School Timetable Management System that helps in generating an
 
 The application uses two main tables:
 
-- `main_subjects`
-  - `id`: Auto-incremented primary key
-  - `subject_name`: Name of the main subject
-  - `weekly_frequency`: Number of classes per week
+### main_subjects
 
-- `elective_subjects`
-  - `id`: Auto-incremented primary key
-  - `subject_name`: Name of the elective subject
-  - `weekly_frequency`: Number of classes per week
+| Field            | Description                        |
+|------------------|------------------------------------|
+| `id`             | Auto-incremented primary key       |
+| `subject_name`   | Name of the main subject           |
+| `weekly_frequency` | Number of classes per week        |
+
+### elective_subjects
+
+| Field            | Description                        |
+|------------------|------------------------------------|
+| `id`             | Auto-incremented primary key       |
+| `subject_name`   | Name of the elective subject       |
+| `weekly_frequency` | Number of classes per week        |
 
 ## Contributing
 
 Feel free to submit pull requests or report issues. Your contributions are welcome!
+```
 
+This version is without the code but still contains all the necessary sections for installing, using, and understanding the project. Let me know if you need any more adjustments!
